@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("Liar's Dice 🎲 (Hugging Face Edition)")
+st.title("Liar's Dice 🎲")
 st.write(
     "This chatbot uses a Hugging Face model for conversation. "
     "To use this app, enter your Hugging Face API token. You can get one [here](https://huggingface.co/settings/tokens)."
